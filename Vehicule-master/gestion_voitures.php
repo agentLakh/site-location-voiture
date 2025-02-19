@@ -12,10 +12,6 @@
         
         <!-- Formulaire d'ajout d'une nouvelle voiture -->
         <form action="enregistrer_voiture.php" method="POST" enctype="multipart/form-data" class="voiture-form">
-            <div class="form-group">
-                <label for="id_voiture">Identifiant unique (ID Voiture) :</label>
-                <input type="text" id="id_voiture" name="id_voiture" required>
-            </div>
 
             <div class="form-group">
                 <label for="marque">Marque :</label>
