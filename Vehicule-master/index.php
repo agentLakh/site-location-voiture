@@ -71,7 +71,7 @@
             </div>
             
             <center>
-                <h1>Les nouveautés</h1>
+                <h1>Les nouveautés de voiture</h1>
             </center>
             <div class="products-container-2">
                 <div class="product-box-2">
