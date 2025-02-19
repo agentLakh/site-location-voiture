@@ -40,7 +40,7 @@
             <ul>
                 <li>
                     <img src="images/home.png" alt="Home Icon" class="icon">
-                    <a href="index.php">Accueil</a>
+                    <a href="gestion_voitures.php">Ajouter une nouvelles voitures</a>
                 </li>
                 <li>
                     <img src="images/shop.png" alt="Library Icon" class="icon">
